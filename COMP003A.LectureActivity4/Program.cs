@@ -90,6 +90,7 @@ namespace COMP003A.LectureActivity4
                     Console.WriteLine($"\t{i}: even");
                 }
                 else { Console.WriteLine($"\t{i}: odd"); }
+
             }
 
         }
